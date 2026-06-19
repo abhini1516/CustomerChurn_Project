@@ -114,4 +114,8 @@ Let's build a better customer retention tool together!
 
 * GitHub: [abhini1516](https://github.com/abhini1516)
 * LinkedIn: [abhini-s](https://www.linkedin.com/in/abhini-s-220345281/)
+<<<<<<< HEAD
 * Email: [abhiniprojects7@gmail.com](mailto:abhiniprojects7@gmail.com)
+=======
+* Email: [abhiniprojects7@gmail.com](mailto:abhiniprojects7@gmail.com)
+>>>>>>> 1d6bdef (add dashboard assets and update image urls in readme)
