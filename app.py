@@ -1,5 +1,9 @@
+import streamlit as st
+import pandas as pd
+import numpy as np
+import pickle
 
-
+# Configuration MUST come immediately after the imports
 st.set_page_config(page_title="Customer Churn Intelligence Platform", layout="wide")
 
 # 1. LOAD SERIALIZED MODEL ARTIFACTS
